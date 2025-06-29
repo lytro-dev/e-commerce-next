@@ -1,7 +1,5 @@
 ## Full Stack E-Commerce Website (+ Dashboard) with Next.js 14: React, Typescript, Tailwindcss, Prisma, MongoDB, NextAuth, Redux.
 
-![Fullstack E-Commerce Website](https://res.cloudinary.com/drokemaoa/image/upload/v1709638892/bitexPoster.png)
-
 ## Overview
 
 Bitex is a full-stack E-Commerce project developed with Next.js 14, featuring a range of technologies including React, Typescript, Tailwindcss, Prisma, MongoDB, NextAuth, and Redux.
@@ -10,9 +8,6 @@ Bitex is a full-stack E-Commerce project developed with Next.js 14, featuring a 
 
 ---
 
-#### 🔗 Live Version:
-
-https://bitex.namvar.dev ⤴️
 
 ---
 
@@ -78,38 +73,3 @@ https://bitex.namvar.dev ⤴️
 - Server-side form data validation using ZOD.
 
 <br/>
-
-## 🚀 Getting Started
-
-#### 💾 Cloning the repository
-
-```shell
-git clone https://github.com/HosseinNamvar/bitex.git
-```
-
-#### 📥 Install packages
-
-```shell
-npm i
-```
-
-#### 🛠️ Setup .env file
-
-```js
-DATABASE_URL=
-NEXTAUTH_SECRET=
-CLOUDINARY_URL= //Hosting address for products images
-```
-
-#### ⬆️ Setup Prisma
-
-```shell
-npx prisma db push
-
-```
-
-#### 🚀 Start the app
-
-```shell
-npm run dev
-```
